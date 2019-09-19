@@ -25,4 +25,13 @@ public enum DeathType {
 		return id;
 	}
 	
+	public static DeathType getDeathType(Integer id) {
+		for (DeathType deathType : values()) {
+			if (deathType.getId() == id) {
+				return deathType;
+			}
+		}
+		return null;
+	}
+	
 }
