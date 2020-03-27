@@ -26,7 +26,8 @@ public class DirApp {
 	@Getter
 	@Setter
 	private String fileSeparator;
-	
+
+	// configuracao do diretorio
 	public void configurar() {
 		this.fileSeparator = System.getProperty("file.separator");
 		this.dirBase = Paths.get(System.getProperty("user.dir"));
