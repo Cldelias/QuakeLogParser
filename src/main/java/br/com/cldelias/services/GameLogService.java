@@ -47,6 +47,7 @@ public class GameLogService {
 		return lista;
 	}
 
+	//gera as informacoes de game
 	private void generateInfoGame(String line, List<Game> lista) {
 		try {
 			if (Game.isInitGame(line)) {
