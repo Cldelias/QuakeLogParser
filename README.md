@@ -1,4 +1,4 @@
-PARSER LOG QUAKE
+# PARSER LOG QUAKE
 
 Autor: Clodoaldo Elias
 Contato: clodoaldoelias@gmail.com
