@@ -47,7 +47,6 @@ seguintes classes:
         }
       }
 
-
 - Para realizar o Parser do Log nessas informações foram criadas as seguintes Classes: 
 	InfoKill: contem as informacoes do nome e id do player que matou e nome e id do player que morreu e o tipo de morte
 	Conversion: Interface com tipo contendo um metodo converter recebendo a linha para converter a texto do log que contém a informacao
@@ -70,7 +69,6 @@ seguintes classes:
        http://localhost:8080/games/files
 
     GameLogService: contem a regra de negócio de leitura das linhas do arquivo e conversão:
-
 
 - Para disponibilizar a documentação da API Rest com Swagger acessar:
        http://localhost:8080/swagger-ui.html
