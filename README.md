@@ -1,7 +1,7 @@
 # PARSER LOG QUAKE
 
-Autor: Clodoaldo Elias
-Contato: clodoaldoelias@gmail.com
+### Autor: Clodoaldo Elias
+### Contato: clodoaldoelias@gmail.com
 
 - Este aplicativo escrito em Java com Spring Boot disponibilizando APIs do parser do Log gerado por um servidor de Quake III.
 
